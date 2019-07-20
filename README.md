@@ -1,4 +1,4 @@
-# R-data-visualization
+# R-shiny-data-visualization
 The set is a collection of 10,841 applications and consists of 13 different variables, which are as following:
 1. App - a qualitative variable, contains the names of application.
 2. Category - a qualitative variable, contains the category of each application ( 33 categories).
