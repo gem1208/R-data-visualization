@@ -14,6 +14,4 @@ The set is a collection of 10,841 applications and consists of 13 different vari
 12. Current Ver – a qualitative variable, reflecting current version of applications.
 13. Android Ver - a qualitative variable, revealing the requirement of Android version for downloading application.
 
-Inspiration
-I decided to analyze this dataset because I usually download applications from Google Play Store for my Samsung phone and it is interesting for me to discover which applications have the top rating, and which factors influence this.
-Additionally, the Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market.
+
